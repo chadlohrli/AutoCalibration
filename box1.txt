@@ -1,0 +1,5 @@
+ADC: 453
+Voltage: 2.21
+Resistance: 12582.78
+Temperature: 19.31 C
+Theta Probe: 552.30

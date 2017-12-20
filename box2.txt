@@ -1,0 +1,5 @@
+ADC: 672
+Voltage: 3.28
+Resistance: 5223.21
+Temperature: 19.56 C
+Theta Probe: 576.74

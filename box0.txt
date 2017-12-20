@@ -1,0 +1,5 @@
+ADC: 401
+Voltage: 1.96
+Resistance: 15511.22
+Temperature: 19.75 C
+Theta Probe: 317.69
